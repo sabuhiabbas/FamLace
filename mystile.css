@@ -361,11 +361,12 @@ width: auto;
 .uhuquq{
   font-family:"Montserrat";
   text-align: justify;
-  padding-left: 7%;
-  padding-right: 3%;
+  padding-left: 2%;
+  padding-right: 2%;
   word-spacing:normal; 
   font-size: 20px;
   line-height: 140%;
+  width: 98%;
 }
 
 .about{
